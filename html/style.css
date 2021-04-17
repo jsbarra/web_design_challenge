@@ -1,0 +1,39 @@
+/* style css */
+@media (min-width:768px){
+    .figsize{
+        max-width:100%;
+        max-height:100%;
+    }
+}
+
+.card{
+    margin:20px;
+}
+
+h1{
+    color:cornflowerblue;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+}
+h2{
+    color:cornflowerblue;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-stretch: extra-expanded;
+    text-align: center;
+}
+body {
+    background: lightgrey;
+  }
+
+.navbar.navbar {
+    color:lightblue;
+    padding: inherit;
+    font-weight: bolder;
+    background-color:cornflowerblue;
+}
+
+.navbar-brand{
+    color: lightblue
+}
